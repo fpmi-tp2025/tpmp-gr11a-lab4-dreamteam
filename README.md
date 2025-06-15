@@ -10,7 +10,7 @@
 Чтобы запустить проект локально:
 1. Клонируйте репозиторий:  
    ```bash
-   git clone https://github.com/fpmi-tp2025/tpmp-gr10b-lab4-data-ninjas/autopark-project.git
+   git clone https://github.com/fpmi-tp2025/tpmp-gr11a-lab4-dreamteam
    ```
 2. Перейдите в папку проекта:
    ```bash
